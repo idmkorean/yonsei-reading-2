@@ -18,8 +18,7 @@ srcaudio: data/yonsei-reading-2-24.mp3
 
 나는 아직 한국말을 잘 못하는데 할 수 있을까?' 하고 걱정이 됐지만 인터넷에서 자원봉사에 대한 자료를 찾아봤다.
 노인들에게 점심을 나눠 드리는 일도 있고 아이들에게 영어를 가르치는 일도 있었다.
-또 자원봉사센터에는 도와주는 분들이 많았다.
-어려운 사람들을 도와주려고 시작하는 것이지만 사실 내가 배우는 것이 더 많고 서로 나누는 기쁨도 클 것 같았다.
+자원봉사는 어려운 사람들을 도와주는 일이지만 사실 내가 배우는 것이 더 많고 서로 나누는 기쁨도 클 것 같았다.
 
 나는 일주일에 한 번 양로원에 계신 할머니와 할아버지를 찾아가서 이야기를 해 드리는 일부터 해 보려고 한다.
 내가 외국인이기는 하지만 어려운 인들과 한 가족 같이 지냈으면 좋겠다.
@@ -65,13 +64,9 @@ Tôi lo lắng liệu mình có thể làm được điều này khi tôi vẫn 
 
 tôi thấy rằng có các hoạt động như chia sẻ bữa trưa cho người cao tuổi hoặc dạy tiếng Anh cho trẻ em.
 
-또 자원봉사센터에는 도와주는 분들이 많았다.
+자원봉사는 어려운 사람들을 도와주는 일이지만 사실 내가 배우는 것이 더 많고 서로 나누는 기쁨도 클 것 같았다.
 
-Ngoài ra, Trung tâm Tình nguyện có nhiều tình nguyên viên hỗ trợ. 
-
-어려운 사람들을 도와주려고 시작하는 것이지만 사실 내가 배우는 것이 더 많고 서로 나누는 기쁨도 클 것 같았다.
-
-Tôi nghĩ rằng việc bắt đầu với mong muốn giúp người khác mặc dù có thể khó khăn, nhưng tôi cũng sẽ học được nhiều điều và cảm nhận niềm vui khi chia sẻ.
+Công việc tình nguyện là giúp đỡ những người khó khăn, nhưng thực tế, tôi cảm thấy mình học hỏi được nhiều điều hơn và niềm hạnh phúc của việc chia sẻ là lớn hơn.
 
 나는 일주일에 한 번 양로원에 계신 할머니와 할아버지를 찾아가서 이야기를 해 드리는 일부터 해 보려고 한다.
 
